@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1022
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39063#The-Motor-Girls-in-the-Mountains--or-The-Gypsy-Girl-s-Secret
 gutenberg_issued: '2012-03-05'
 gutenberg_type: Text
 identifiers:
